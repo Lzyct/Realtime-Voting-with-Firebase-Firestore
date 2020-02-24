@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prototype Sender</string>
+    <string name="access_location_not_allowed">Access Location Not Allowed</string>
+    <string name="retry">Retry</string>
+    <string name="start">Start</string>
+    <string name="onboard_title1">Ini title 1</string>
+    <string name="onboard_title2">Ini title 2</string>
+    <string name="onboard_title3">Ini title 3</string>
+    <string name="onboard_message1">Ini message 1</string>
+    <string name="onboard_message2">Ini message 2</string>
+    <string name="onboard_message3">Ini message 3</string>
+    <string name="user_1">User 1</string>
+    <string name="user_2">User 2</string>
+    <string name="current_count">Total count saat ini :</string>
+</resources>

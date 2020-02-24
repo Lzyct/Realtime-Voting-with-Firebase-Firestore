@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_height">150dp</dimen>
+
+    <!--Font Size-->
+    <dimen name="space2">2dp</dimen>
+    <dimen name="space4">4dp</dimen>
+    <dimen name="space8">8dp</dimen>
+    <dimen name="space10">10dp</dimen>
+    <dimen name="space16">16dp</dimen>
+    <dimen name="space24">24dp</dimen>
+    <dimen name="btnHeight">48dp</dimen>
+    <dimen name="h1">24sp</dimen>
+    <dimen name="h2">22sp</dimen>
+    <dimen name="h3">20sp</dimen>
+    <dimen name="h4">18sp</dimen>
+    <dimen name="h5">16sp</dimen>
+    <dimen name="h6">14sp</dimen>
+    <dimen name="h7">12sp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp120">120dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+</resources>
